@@ -24,15 +24,18 @@ I wanted to actually understand how things like attention and tokenizers work, s
 ## How to run it
 
 Install the requirements:
-pip install -r requirements.txt
+
+`pip install -r requirements.txt`
 
 Put some text in a file called `data.txt` in this folder.
 
 Train the model:
-python train.py
+
+`python train.py`
 
 Generate text:
-python generate.py
+
+`python generate.py`
 
 ## Why I made this
 
