@@ -43,6 +43,3 @@ I wanted to build the actual pieces myself so I could understand what's really h
 
 This is a small model trained on a small amount of text, so the generated text won't be perfect.
 The point of this project was learning how transformers work, not building something production-ready.
-## How to run it
-
-Install the requirements:
