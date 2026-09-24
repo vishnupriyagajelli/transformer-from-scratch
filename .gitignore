@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+checkpoint.pt
+bpe_tokenizer.json
+data.txt
+.vscode/
